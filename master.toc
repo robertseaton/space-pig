@@ -1,3 +1,3 @@
-\contentsline {section}{Practice of a Different Sort}{7}{section*.4}
-\contentsline {chapter}{Bibliography}{9}{chapter*.5}
+\contentsline {section}{Content}{5}{section*.3}
+\contentsline {chapter}{Bibliography}{7}{chapter*.4}
 \contentsfinish 
