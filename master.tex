@@ -1,5 +1,6 @@
 \documentclass{tufte-book}
-\usepackage{amsmath} %Never write a paper without using amsmath for its many new commands
+\usepackage{mathtools}  % loads »amsmath«
+\usepackage{physics}
 \usepackage{amssymb} %Some extra symbols
 \usepackage{makeidx} %If you want to generate an index, automatically
 \usepackage{graphicx} %If you want to include postscript graphics
@@ -18,10 +19,8 @@
 \frontmatter
 \tableofcontents
 
-\chapter*{Introduction}
-\include{introduction}
-
 \mainmatter
+\include{introduction}
 \include{finding-info}
 %\include{chaptr2}
 %\include{chaptr3}
