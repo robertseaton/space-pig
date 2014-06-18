@@ -7,15 +7,28 @@
 \usepackage{attrib}
 \usepackage{graphicx}
 \usepackage{microtype}
+\usepackage[utf8]{inputenc}
 %\usepackage{mystyle} %Create your own file, mystyle.sty where you put all your own \newcommand statements, for example.
 
-%\includeonly{chaptr2} %If you just want to process chaptr2.tex
+\newcommand{\openepigraph}[2]{ % This block sets up a command for printing an epigraph with 2 arguments - the quote and the author
+\begin{fullwidth}
+\sffamily\large
+\begin{doublespace}
+\noindent\allcaps{#1}\\ % The quote
+\noindent\allcaps{#2} % The author
+\end{doublespace}
+\end{fullwidth}
+}
 
 \author{Robert Seaton}
 \title{Processing More}
 
 \begin{document}
 \maketitle
+\thispagestyle{empty}
+\openepigraph{Most haystacks do not even have a needle.}{}
+\vfill
+\openepigraph{This science is the work of the human mind, which is destined rather to study than to know, to seek the truth rather than to find it.}{\itshape Évariste Galois}
 \frontmatter
 \tableofcontents
 
@@ -26,7 +39,7 @@
 %\include{chaptr3}
 %\include{chaptr4}
 %\include{chaptr5}
-
+% Possible chapter: keeping up with new information, findings.
 \backmatter
 % \include{glossary}
 % \include{notat}
