@@ -1,3 +1,33 @@
-\contentsline {section}{Content}{5}{section*.3}
-\contentsline {chapter}{Bibliography}{7}{chapter*.4}
+\contentsline {chapter}{Introduction}{3}{chapter*.2}
+\contentsline {section}{What to expect}{5}{section*.3}
+\contentsline {chapter}{Finding, Filtering, and Managing Information}{7}{chapter*.4}
+\contentsline {section}{Recognizing an opportunity}{7}{section*.5}
+\contentsline {section}{Competitor analysis}{9}{section*.6}
+\contentsline {section}{Wait, but who's the competition?}{10}{section*.7}
+\contentsline {section}{Names and keywords}{10}{section*.8}
+\contentsline {section}{Human resources and expertise}{11}{section*.9}
+\contentsline {section}{Q\&A Sites}{11}{section*.10}
+\contentsline {section}{Librarians}{12}{section*.11}
+\contentsline {section}{Recommendation engines}{12}{section*.12}
+\contentsline {section}{Bibliographies}{13}{section*.13}
+\contentsline {section}{Textbooks}{13}{section*.14}
+\contentsline {section}{Review articles}{14}{section*.15}
+\contentsline {section}{OEIS}{14}{section*.16}
+\contentsline {section}{Summary: How to find information}{15}{section*.17}
+\contentsline {section}{Filtering Information}{16}{section*.18}
+\contentsline {section}{Skimming and Trashing}{17}{section*.19}
+\contentsline {section}{Heuristics}{18}{section*.20}
+\contentsline {section}{A final pass}{19}{section*.21}
+\contentsline {section}{Creating a reading list}{19}{section*.22}
+\contentsline {section}{Reading and Managing Information}{20}{section*.23}
+\contentsline {section}{Reading}{21}{section*.24}
+\contentsline {section}{Highlighting}{21}{section*.25}
+\contentsline {section}{Chapter Summaries}{21}{section*.26}
+\contentsline {section}{Reviews}{22}{section*.27}
+\contentsline {section}{Yeah, but what about papers?}{22}{section*.28}
+\contentsline {section}{Evernote}{23}{section*.29}
+\contentsline {section}{Chapter review}{23}{section*.30}
+\contentsline {section}{Further reading}{24}{section*.31}
+\contentsline {chapter}{Understanding}{27}{chapter*.32}
+\contentsline {chapter}{Bibliography}{29}{chapter*.33}
 \contentsfinish 
