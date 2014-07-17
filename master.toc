@@ -29,5 +29,6 @@
 \contentsline {section}{Chapter review}{23}{section*.30}
 \contentsline {section}{Further reading}{24}{section*.31}
 \contentsline {chapter}{Understanding}{27}{chapter*.32}
-\contentsline {chapter}{Bibliography}{29}{chapter*.33}
+\contentsline {section}{Perspective Collection}{27}{section*.33}
+\contentsline {chapter}{Bibliography}{29}{chapter*.34}
 \contentsfinish 
