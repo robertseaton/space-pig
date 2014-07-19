@@ -30,5 +30,6 @@
 \contentsline {section}{Further reading}{24}{section*.31}
 \contentsline {chapter}{Understanding}{27}{chapter*.32}
 \contentsline {section}{Perspective Collection}{27}{section*.33}
-\contentsline {chapter}{Bibliography}{29}{chapter*.34}
+\contentsline {section}{Debugging Confusion}{28}{section*.34}
+\contentsline {chapter}{Bibliography}{29}{chapter*.35}
 \contentsfinish 
